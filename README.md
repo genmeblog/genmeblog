@@ -1,4 +1,36 @@
-## Hi there 👋
+Hi, Tomasz here, I'm passionate Clojure engineer which specializes mostly in scientific usage of the language. Member of the [Scicloj](https://scicloj.github.io/) community. I do this mostly as a side activity and hobby. My primary professional role involves managing a software house company as CTO/CIO. In the past I used to be a software developer, system analyst, project and program manager.
+
+## Libraries
+
+I've created or contributed to many of the open source projects listed below.
+
+### Science
+
+* [fastmath](https://github.com/generateme/fastmath) - general mathematics and statistics library (with elements of ML)
+* [fitdistr](https://github.com/generateme/fitdistr) - distribution fitting to a data
+* [LBFGSB](https://github.com/genmeblog/LBFGSBJava) - L-BFGS-B optimizer written purely in Java (exposed in fastmath)
+
+On hold
+
+* [inferme](https://github.com/generateme/inferme) - Bayesian Inferernce (MCMC) library
+* [metadoc](https://github.com/generateme/metadoc) - unit code examples as a documentation metadata
+
+### Visual
+
+* [Clojure2d](https://github.com/Clojure2D/clojure2d) - General visualization library: Java2d wrapper, pixel manipulations and renderers, extensive color manipulations functions with colorimetry
+    * [Clojure2d-examples](https://github.com/Clojure2D/clojure2d) - 200+ examples and small projects presenting usage of the Clojure2d library, including [a game](https://github.com/Clojure2D/clojure2d-examples/tree/master/src/games/the_king), [Ray Tracing in One Weekend](https://github.com/Clojure2D/clojure2d-examples/tree/master/src/rt4), [Nature of Code](https://github.com/Clojure2D/clojure2d-examples/tree/master/src/NOC).
+* [GLIC](https://github.com/GlitchCodec/GLIC) - GLitch Image Codec - image codec and tool designed for artistic purposes, based on a selection techniques used in modern visual codecs like in HEVC or AV9
+
+On hold
+
+* [cljplot](https://github.com/generateme/cljplot) - charting / data visualization library
+* [generateme](https://github.com/genmeblog/GenerateMe) - ~30 glitch and generative art Processing scripts for artists
+
+### Other
+
+* [okasaki](https://github.com/genmeblog/okasaki) - Purely functional data structures study (Okasaki book examples in Clojure)
+* [soundsynth](https://github.com/genmeblog/soundsynth) - Sound synthesis from the scratch (programatic synthesis path including: bpm clock with trigger and gate, sequencer, adsr envelope, SVF, phase modulator, waveform oscillators and generators, waveshaping)
+* [advent-of-code](https://github.com/genmeblog/advent-of-code) - Advent of Code solutions (2015-2024)
 
 <!--
 **genmeblog/genmeblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
