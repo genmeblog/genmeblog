@@ -1,4 +1,4 @@
-Hi, Tomasz here, I'm passionate Clojure engineer which specializes mostly in scientific usage of the language. Member of the [Scicloj](https://scicloj.github.io/) community. I do this mostly as a side activity and hobby. My primary professional role involves managing a software house company as CTO/CIO. In the past I used to be a software developer, system analyst, project and program manager. I'm also involved in artistic (see below) and educational activities.
+Hi, Tomasz here, I'm passionate Clojure engineer which specializes mostly in scientific usage of the language. Member of the [Scicloj](https://scicloj.github.io/) community. I do this mostly as a side activity and hobby. My primary professional role involves managing a software house company as CTO/CIO. In the past I used to be a software developer, system analyst, project and program manager. I'm also involved in artistic (see below) and educational activities. I fly kites and play classical piano and guitar.
 
 Currently seeking for an opportunity to switch from managemnt to purely Clojure development.
 
