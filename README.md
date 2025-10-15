@@ -1,4 +1,4 @@
-Hi, Tomasz here, I'm passionate Clojure engineer which specializes mostly in scientific usage of the language. Member of the [Scicloj](https://scicloj.github.io/) community. I do this mostly as a side activity and hobby. My primary professional role involves managing a software house company as CTO/CIO. In the past I used to be a software developer, system analyst, project and program manager.
+Hi, Tomasz here, I'm passionate Clojure engineer which specializes mostly in scientific usage of the language. Member of the [Scicloj](https://scicloj.github.io/) community. I do this mostly as a side activity and hobby. My primary professional role involves managing a software house company as CTO/CIO. In the past I used to be a software developer, system analyst, project and program manager. I'm also involved in artistic (see below) and educational activities.
 
 Currently seeking for an opportunity to switch from managemnt to purely Clojure development.
 
@@ -39,6 +39,15 @@ On hold
 * [soundsynth](https://github.com/genmeblog/soundsynth) - Sound synthesis from the scratch (programatic synthesis path including: bpm clock with trigger and gate, sequencer, adsr envelope, SVF, phase modulator, waveform oscillators and generators, waveshaping)
 * [advent-of-code](https://github.com/genmeblog/advent-of-code) - Advent of Code solutions (2015-2024)
 
+## Art
+
+Selection of exhibitions, performances and pages in glitch/generative/math art genres.
+
+* Glitch Art is Dead - [2015](https://rozdzielchleb.pl/glitch-art-is-dead/), [2017](https://gamutgallerympls.com/2017/02/10/glitch-art-is-dead/)
+* fu:bar - [2016](https://fubar.space/2016/sonification-data-as-sound/), [2016](https://fubar.space/2016/making-an-image-codec-for-artistic-purposes/), [2017](https://fubar.space/2017/silent-coding/)
+* free_art_-_source - [2016](https://formatc.hr/free_art_-_src-2016/), [2017](https://www.subsite.hr/2017/03/performans-silent-coding-u-okviru-izlozbe-free_art_-_source/), [2019](https://formatc.hr/free_art_-_src-2019/)
+* [folds2d](https://www.tumblr.com/folds2d) - math art
+  
 ---
 
 Reach me on: [Slack](clojurians.slack.com), [Zulip](https://scicloj.github.io/docs/community/chat/), [LinkedIn](https://www.linkedin.com/in/tomasz-sulej-b70557/)
