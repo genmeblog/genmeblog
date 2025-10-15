@@ -1,13 +1,19 @@
 Hi, Tomasz here, I'm passionate Clojure engineer which specializes mostly in scientific usage of the language. Member of the [Scicloj](https://scicloj.github.io/) community. I do this mostly as a side activity and hobby. My primary professional role involves managing a software house company as CTO/CIO. In the past I used to be a software developer, system analyst, project and program manager.
 
+Currently seeking for an opportunity to switch from managemnt to purely Clojure development.
+
 ## Libraries
 
 I've created or contributed to many of the open source projects listed below.
 
 ### Science
 
+* [tablecloth](https://github.com/scicloj/tablecloth) - dataset manipulation library, unified API on the top of [tech.ml.dataset](https://github.com/techascent/tech.ml.dataset)
 * [fastmath](https://github.com/generateme/fastmath) - general mathematics and statistics library (with elements of ML)
 * [fitdistr](https://github.com/generateme/fitdistr) - distribution fitting to a data
+* [clojisr](https://github.com/scicloj/clojisr) (co-author) - R <-> Clojure bridge
+* [wadogo](https://github.com/scicloj/wadogo) - domain -> range (scales) transformations including continous and discrete cases
+* [metamorph](https://github.com/scicloj/metamorph) (co-author) - data processing pipelines
 * [LBFGSB](https://github.com/genmeblog/LBFGSBJava) - L-BFGS-B optimizer written purely in Java (exposed in fastmath)
 
 On hold
@@ -25,6 +31,7 @@ On hold
 
 * [cljplot](https://github.com/generateme/cljplot) - charting / data visualization library
 * [generateme](https://github.com/genmeblog/GenerateMe) - ~30 glitch and generative art Processing scripts for artists
+* [sonification](https://github.com/SonifyIt/sonification) - image processing through analog and digital sound processing effects and filters
 
 ### Other
 
@@ -32,17 +39,6 @@ On hold
 * [soundsynth](https://github.com/genmeblog/soundsynth) - Sound synthesis from the scratch (programatic synthesis path including: bpm clock with trigger and gate, sequencer, adsr envelope, SVF, phase modulator, waveform oscillators and generators, waveshaping)
 * [advent-of-code](https://github.com/genmeblog/advent-of-code) - Advent of Code solutions (2015-2024)
 
-<!--
-**genmeblog/genmeblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me on: [Slack](clojurians.slack.com), [Zulip](https://scicloj.github.io/docs/community/chat/), [LinkedIn](https://www.linkedin.com/in/tomasz-sulej-b70557/)
