@@ -37,7 +37,7 @@ On hold
 
 * [okasaki](https://github.com/genmeblog/okasaki) - Purely functional data structures study (Okasaki book examples in Clojure)
 * [soundsynth](https://github.com/genmeblog/soundsynth) - Sound synthesis from the scratch (programatic synthesis path including: bpm clock with trigger and gate, sequencer, adsr envelope, SVF, phase modulator, waveform oscillators and generators, waveshaping)
-* [advent-of-code](https://github.com/genmeblog/advent-of-code) - Advent of Code solutions (2015-2024)
+* [advent-of-code](https://github.com/genmeblog/advent-of-code) - Advent of Code solutions (2015-2025)
 
 ## Art
 
