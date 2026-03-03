@@ -2,7 +2,7 @@ Hi, Tomasz here, I'm passionate Clojure engineer which specializes mostly in sci
 
 Currently seeking for an opportunity to switch from managemnt to purely Clojure development.
 
-## Libraries
+## Projects
 
 I've created or contributed to many of the open source projects listed below.
 
