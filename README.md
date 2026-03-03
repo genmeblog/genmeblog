@@ -33,6 +33,10 @@ On hold
 * [generateme](https://github.com/genmeblog/GenerateMe) - ~30 glitch and generative art Processing scripts for artists
 * [sonification](https://github.com/SonifyIt/sonification) - image processing through analog and digital sound processing effects and filters
 
+### Web
+
+* [Web app from scratch](https://github.com/genmeblog/webapp-from-scratch) - experiments with various libraries for web development
+
 ### Other
 
 * [okasaki](https://github.com/genmeblog/okasaki) - Purely functional data structures study (Okasaki book examples in Clojure)
